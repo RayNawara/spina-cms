@@ -59,4 +59,4 @@ group :test do
 end
 gem "devise"
 gem "awesome_print"
-gem 'spina', '~> 2.18'
+gem 'spina', '~> 2.20'
